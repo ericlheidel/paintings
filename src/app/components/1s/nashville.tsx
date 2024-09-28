@@ -1,16 +1,16 @@
 import Image from "next/image"
 
-export const ArizonaDesktop = () => {
+export const NashvilleDesktop = () => {
   return (
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF]">
         <div>
-          <h2 className="my-2 text-center">&quot;Chicago&quot;</h2>
+          <h2 className="my-2 text-center">&quot;Nashville&quot;</h2>
           <Image
-            src="/assets/paintings/arizona.png"
-            alt="An image of a painting entitled Chicago"
-            width={230}
-            height={230}
+            src="/assets/paintings/nashville.png"
+            alt="An image of a painting entitled Nashville"
+            width={430}
+            height={430}
             priority
             unoptimized
             className="px-4 pb-4 shadow-xl"
@@ -21,10 +21,10 @@ export const ArizonaDesktop = () => {
   )
 }
 
-export const ArizonaMobile = () => {
+export const NashvilleMobile = () => {
   return (
     <div>
-      <div>Arizona Mobile</div>
+      <div>Nashville Mobile</div>
     </div>
   )
 }
