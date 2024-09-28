@@ -8,7 +8,7 @@ export const EnvyDesktop = () => {
           <h2 className="my-2 text-center">&quot;Envy&quot;</h2>
           <Image
             src="/assets/paintings/envy.png"
-            alt="An image of a painting entitled Concave Sunset"
+            alt="An image of a painting entitled Envy"
             width={230}
             height={230}
             priority

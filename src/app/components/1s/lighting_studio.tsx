@@ -28,7 +28,7 @@ export const LightingStudioDesktop = () => {
           <h2 className="my-2 text-center">&quot;Lighting Studio&quot;</h2>
           <Image
             src="/assets/paintings/lighting_studio.png"
-            alt="An image of a painting entitled Pow"
+            alt="An image of a lighting studio painted by Eric Heidel"
             width={230}
             height={230}
             priority

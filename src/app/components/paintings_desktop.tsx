@@ -11,6 +11,8 @@ import { NashvilleDesktop } from "./1s/nashville"
 import { ChicagoDesktop } from "./1s/chicago"
 import { LightingStudioDesktop } from "./1s/lighting_studio"
 import { ArizonaDesktop } from "./1s/arizona"
+import { ColorOfTheYearOneAndTwoDesktop } from "./2s/color_of_the_year_1_and_2"
+import { BeeStingDesktop } from "./1s/bee_sting"
 
 export const PaintingsDesktop = () => {
   return (
@@ -33,6 +35,8 @@ export const PaintingsDesktop = () => {
         <ChicagoDesktop />
         <LightingStudioDesktop />
         <ArizonaDesktop />
+        <ColorOfTheYearOneAndTwoDesktop />
+        <BeeStingDesktop />
       </div>
     </div>
   )

@@ -8,7 +8,7 @@ export const CosmicBowlingDesktop = () => {
           <h2 className="my-2 text-center">&quot;Cosmic Bowling&quot;</h2>
           <Image
             src="/assets/paintings/cosmic_bowling.png"
-            alt="An image of a painting entitled Concave Sunset"
+            alt="An image of a painting entitled Cosmic Bowling"
             width={230}
             height={230}
             priority
