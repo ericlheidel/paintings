@@ -74,7 +74,7 @@ export const FiverDesktop = () => {
 export const FiverMobile = () => {
   return (
     <div>
-      <div>FiverMobile</div>
+      <div>Fiver Mobile</div>
     </div>
   )
 }

@@ -48,7 +48,7 @@ export const ServingTrayDesktop = () => {
 export const ServingTrayMobile = () => {
   return (
     <div>
-      <div>Triple Mobile</div>
+      <div>Serving Tray Mobile</div>
     </div>
   )
 }

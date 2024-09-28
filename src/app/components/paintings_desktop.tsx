@@ -3,6 +3,8 @@ import { FiverDesktop } from "./5s/fiver"
 import Link from "next/link"
 import { TripleDesktop } from "./3s/triple"
 import { ServingTrayDesktop } from "./3s/serving_tray"
+import { ArgyleDesktop } from "./3s/argyle"
+import { ConcaveSunsetDesktop } from "./1s/concave_sunset"
 
 export const PaintingsDesktop = () => {
   return (
@@ -17,6 +19,8 @@ export const PaintingsDesktop = () => {
         <FiverDesktop />
         <TripleDesktop />
         <ServingTrayDesktop />
+        <ArgyleDesktop />
+        <ConcaveSunsetDesktop />
       </div>
     </div>
   )
