@@ -5,6 +5,8 @@ import { TripleDesktop } from "./3s/triple"
 import { ServingTrayDesktop } from "./3s/serving_tray"
 import { ArgyleDesktop } from "./3s/argyle"
 import { ConcaveSunsetDesktop } from "./1s/concave_sunset"
+import { CosmicBowlingDesktop } from "./1s/cosmic_bowling"
+import { EnvyDesktop } from "./1s/envy"
 
 export const PaintingsDesktop = () => {
   return (
@@ -15,12 +17,14 @@ export const PaintingsDesktop = () => {
           <Link href="https://www.eheidel.com">Home</Link>
         </div>
       </div>
-      <div className="flex flex-row flex-wrap gap-8">
+      <div className="flex flex-row flex-wrap gap-8 justify-center">
         <FiverDesktop />
         <TripleDesktop />
         <ServingTrayDesktop />
         <ArgyleDesktop />
         <ConcaveSunsetDesktop />
+        <CosmicBowlingDesktop />
+        <EnvyDesktop />
       </div>
     </div>
   )
