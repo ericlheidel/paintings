@@ -13,6 +13,9 @@ export default function Home() {
         <p className="text-center">Created by Eric Heidel, 2024</p>
         <p className="mt-2 text-center">Created with NextJS</p>
         <p className="mt-2 text-center">Styled with TailwindCSS</p>
+        <p className="mt-2 text-center">
+          All images are intellectual property of Eric Heidel
+        </p>
       </footer>
     </div>
   )
