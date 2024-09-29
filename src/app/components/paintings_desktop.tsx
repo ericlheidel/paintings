@@ -16,6 +16,10 @@ import { BeeStingDesktop } from "./1s/bee_sting"
 import { FuturamaDesktop } from "./1s/futurama"
 import { FourLittleDiamondsDesktop } from "./1s/four_little_diamonds"
 import { CitiesAndGreasedLightningDesktop } from "./2s/cities_and_greased_lightning"
+import { FiftySevenChevyAndAutumnDesktop } from "./2s/57_chevy_and_autumn"
+import { FunkAndDiscoDesktop } from "./2in1s/funk_disco"
+import { AlternatingCurrentAndDirectCurrentDesktop } from "./2in1s/ac_dc"
+import { ADayAtTheRacesAndANightAtTheOperaDesktop } from "./2in1s/races_opera"
 
 export const PaintingsDesktop = () => {
   return (
@@ -43,6 +47,10 @@ export const PaintingsDesktop = () => {
         <FuturamaDesktop />
         <FourLittleDiamondsDesktop />
         <CitiesAndGreasedLightningDesktop />
+        <FiftySevenChevyAndAutumnDesktop />
+        <FunkAndDiscoDesktop />
+        <AlternatingCurrentAndDirectCurrentDesktop />
+        <ADayAtTheRacesAndANightAtTheOperaDesktop />
       </div>
     </div>
   )
