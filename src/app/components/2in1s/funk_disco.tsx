@@ -1,12 +1,12 @@
 import Image from "next/image"
 
-export const FunkAndDiscoDesktop = () => {
+export const FunkAndDisco = () => {
   return (
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF] ">
         <div>
           <h2 className="my-2 text-lg font-semibold text-center">
-            &quot;Funk {`&`} Disco&quot;
+            Funk {`&`} Disco
           </h2>
           <Image
             src="/assets/paintings/500x500/funk_&_disco_1000x500.png"
@@ -19,14 +19,6 @@ export const FunkAndDiscoDesktop = () => {
           />
         </div>
       </div>
-    </div>
-  )
-}
-
-export const FunkAndDiscoMobile = () => {
-  return (
-    <div>
-      <div>Funk And Disco Mobile</div>
     </div>
   )
 }

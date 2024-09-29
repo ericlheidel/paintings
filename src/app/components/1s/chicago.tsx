@@ -1,13 +1,11 @@
 import Image from "next/image"
 
-export const ChicagoDesktop = () => {
+export const Chicago = () => {
   return (
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF]">
         <div>
-          <h2 className="my-2 text-lg font-semibold text-center">
-            &quot;Chicago&quot;
-          </h2>
+          <h2 className="my-2 text-lg font-semibold text-center">Chicago</h2>
           <Image
             src="/assets/paintings/500x500/chicago_1000x500.png"
             alt="An image of a painting entitled Chicago"
@@ -19,14 +17,6 @@ export const ChicagoDesktop = () => {
           />
         </div>
       </div>
-    </div>
-  )
-}
-
-export const ChicagoMobile = () => {
-  return (
-    <div>
-      <div>Chicago Mobile</div>
     </div>
   )
 }

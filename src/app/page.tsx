@@ -4,7 +4,7 @@ import { PaintingsMobile } from "./components/paintings_mobile"
 export default function Home() {
   return (
     <div className="p-6 w-full min-h-screen flex flex-col items-center">
-      <h1 className="m-8 text-5xl font-semibold text-[#1BFFFF]">
+      <h1 className="m-8 md:text-5xl text-3xl font-semibold text-[#1BFFFF]">
         My Old Paintings
       </h1>
       <PaintingsMobile />

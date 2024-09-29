@@ -1,12 +1,12 @@
 import Image from "next/image"
 
-export const ADayAtTheRacesAndANightAtTheOperaDesktop = () => {
+export const ADayAtTheRacesAndANightAtTheOpera = () => {
   return (
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF] ">
         <div>
           <h2 className="my-2 text-lg font-semibold text-center">
-            &quot;A Day at the Races {`&`} A Night at the Opera&quot;
+            A Day at the Races {`&`} A Night at the Opera
           </h2>
           <Image
             src="/assets/paintings/500x500/a_day_at_the_races_&_a_night_at_the_opera_1000x500.png"

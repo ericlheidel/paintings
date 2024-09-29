@@ -7,8 +7,8 @@ import { ArgyleDesktop } from "./3s/argyle"
 import { ConcaveSunsetDesktop } from "./1s/concave_sunset"
 import { CosmicBowlingDesktop } from "./1s/cosmic_bowling"
 import { EnvyDesktop } from "./1s/envy"
-import { NashvilleDesktop } from "./1s/nashville"
-import { ChicagoDesktop } from "./1s/chicago"
+import { Nashville } from "./1s/nashville"
+import { Chicago } from "./1s/chicago"
 import { LightingStudioDesktop } from "./1s/lighting_studio"
 import { ArizonaDesktop } from "./1s/arizona"
 import { ColorOfTheYearOneAndTwoDesktop } from "./2s/color_of_the_year_1_and_2"
@@ -17,9 +17,9 @@ import { FuturamaDesktop } from "./1s/futurama"
 import { FourLittleDiamondsDesktop } from "./1s/four_little_diamonds"
 import { CitiesAndGreasedLightningDesktop } from "./2s/cities_and_greased_lightning"
 import { FiftySevenChevyAndAutumnDesktop } from "./2s/57_chevy_and_autumn"
-import { FunkAndDiscoDesktop } from "./2in1s/funk_disco"
-import { AlternatingCurrentAndDirectCurrentDesktop } from "./2in1s/ac_dc"
-import { ADayAtTheRacesAndANightAtTheOperaDesktop } from "./2in1s/races_opera"
+import { FunkAndDisco } from "./2in1s/funk_disco"
+import { AlternatingCurrentAndDirectCurrent } from "./2in1s/ac_dc"
+import { ADayAtTheRacesAndANightAtTheOpera } from "./2in1s/races_opera"
 import { PrimaryDesktop } from "./1s/primary"
 import { StripesIDesktop } from "./1s/stripes_I"
 
@@ -40,8 +40,8 @@ export const PaintingsDesktop = () => {
         <ConcaveSunsetDesktop />
         <CosmicBowlingDesktop />
         <EnvyDesktop />
-        <NashvilleDesktop />
-        <ChicagoDesktop />
+        <Nashville />
+        <Chicago />
         <LightingStudioDesktop />
         <ArizonaDesktop />
         <ColorOfTheYearOneAndTwoDesktop />
@@ -51,9 +51,9 @@ export const PaintingsDesktop = () => {
         <CitiesAndGreasedLightningDesktop />
         <PrimaryDesktop />
         <FiftySevenChevyAndAutumnDesktop />
-        <FunkAndDiscoDesktop />
-        <AlternatingCurrentAndDirectCurrentDesktop />
-        <ADayAtTheRacesAndANightAtTheOperaDesktop />
+        <FunkAndDisco />
+        <AlternatingCurrentAndDirectCurrent />
+        <ADayAtTheRacesAndANightAtTheOpera />
         <StripesIDesktop />
       </div>
     </div>

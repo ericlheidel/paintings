@@ -1,12 +1,12 @@
 import Image from "next/image"
 
-export const NashvilleDesktop = () => {
+export const Nashville = () => {
   return (
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF]">
         <div>
           <h2 className="my-2 text-lg font-semibold text-center">
-            &quot;Nashville&quot;
+            Nashville
           </h2>
           <Image
             src="/assets/paintings/500x500/nashville_1000x500.png"
@@ -19,14 +19,6 @@ export const NashvilleDesktop = () => {
           />
         </div>
       </div>
-    </div>
-  )
-}
-
-export const NashvilleMobile = () => {
-  return (
-    <div>
-      <div>Nashville Mobile</div>
     </div>
   )
 }

@@ -1,12 +1,12 @@
 import Image from "next/image"
 
-export const AlternatingCurrentAndDirectCurrentDesktop = () => {
+export const AlternatingCurrentAndDirectCurrent = () => {
   return (
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF] ">
         <div>
           <h2 className="my-2 text-lg font-semibold text-center">
-            &quot;Alternating Current {`&`} Direct Current&quot;
+            Alternating Current {`&`} Direct Current
           </h2>
           <Image
             src="/assets/paintings/500x500/alternating_current_&_direct_current_1000x500.png"
