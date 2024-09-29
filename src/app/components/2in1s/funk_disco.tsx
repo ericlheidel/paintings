@@ -5,7 +5,9 @@ export const FunkAndDiscoDesktop = () => {
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF] ">
         <div>
-          <h2 className="my-2 text-center">&quot;Funk {`&`} Disco&quot;</h2>
+          <h2 className="my-2 text-lg font-semibold text-center">
+            &quot;Funk {`&`} Disco&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/funk_&_disco_1000x500.png"
             alt="An image of a painting entitled Funk and a painting entitled Disco"

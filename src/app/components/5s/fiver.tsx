@@ -5,7 +5,9 @@ export const FiverDesktop = () => {
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF] ">
         <div>
-          <h2 className="my-2 text-center">&quot;Crumble&quot;</h2>
+          <h2 className="my-2 text-xl font-semibold text-center">
+            &quot;Crumble&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/quin_1_crumble_500x500.png"
             alt="An image of a painting entitled Crumble"
@@ -17,7 +19,7 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-center">
+          <h2 className="my-2 text-xl font-semibold text-center">
             &quot;Spaghetti & Meatballs&quot;
           </h2>
           <Image
@@ -31,7 +33,9 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-center">&quot;The Great Divide&quot;</h2>
+          <h2 className="my-2 text-xl font-semibold text-center">
+            &quot;The Great Divide&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/quin_3_the_great_divide_500x500.png"
             alt="An image of a painting entitled The Great Divide"
@@ -43,7 +47,9 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-center">&quot;Brainstorm&quot;</h2>
+          <h2 className="my-2 text-xl font-semibold text-center">
+            &quot;Brainstorm&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/quin_4_brainstorm_500x500.png"
             alt="An image of a painting entitled Brainstorm"
@@ -55,7 +61,9 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-center">&quot;Geminiman&quot;</h2>
+          <h2 className="my-2 text-xl font-semibold text-center">
+            &quot;Geminiman&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/quin_5_geminiman_500x500.png"
             alt="An image of a painting entitled Geminiman"

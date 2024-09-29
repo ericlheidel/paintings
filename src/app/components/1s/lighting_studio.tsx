@@ -13,7 +13,9 @@ export const LightingStudioDesktop = () => {
           </p>
         </div>
         <div>
-          <h2 className="my-2 text-center">&quot;Lighting Studio&quot;</h2>
+          <h2 className="my-2 text-lg font-semibold text-center">
+            &quot;Lighting Studio&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/lighting_studio_500x500.png"
             alt="An image of a lighting studio painted by Eric Heidel"

@@ -5,7 +5,9 @@ export const ColorOfTheYearOneAndTwoDesktop = () => {
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF]">
         <div>
-          <h2 className="my-2 text-center">&quot;Color of the Year 1&quot;</h2>
+          <h2 className="my-2 text-lg font-semibold text-center">
+            &quot;Color of the Year 1&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/color_of_the_year_1_500x500.png"
             alt="An image of a painting entitled Color of the Year 1"
@@ -17,7 +19,9 @@ export const ColorOfTheYearOneAndTwoDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-center">&quot;Color of the Year 2&quot;</h2>
+          <h2 className="my-2 text-lg font-semibold text-center">
+            &quot;Color of the Year 2&quot;
+          </h2>
           <Image
             src="/assets/paintings/500x500/color_of_the_year_2_500x500.png"
             alt="An image of a painting entitled Color of the Year 2"

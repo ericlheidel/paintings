@@ -5,7 +5,7 @@ export const ADayAtTheRacesAndANightAtTheOperaDesktop = () => {
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF] ">
         <div>
-          <h2 className="my-2 text-center">
+          <h2 className="my-2 text-lg font-semibold text-center">
             &quot;A Day at the Races {`&`} A Night at the Opera&quot;
           </h2>
           <Image
