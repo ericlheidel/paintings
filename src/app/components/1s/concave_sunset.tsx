@@ -7,7 +7,7 @@ export const ConcaveSunsetDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Concave Sunset&quot;</h2>
           <Image
-            src="/assets/paintings/concave_sunset_500x500.png"
+            src="/assets/paintings/--500x500/concave_sunset_500x500.png"
             alt="An image of a painting entitled Concave Sunset"
             width={230}
             height={230}

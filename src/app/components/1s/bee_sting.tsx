@@ -7,7 +7,7 @@ export const BeeStingDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Bee Sting&quot;</h2>
           <Image
-            src="/assets/paintings/bee_sting_500x500.png"
+            src="/assets/paintings/--500x500/bee_sting_500x500.png"
             alt="An image of a painting entitled Bee Sting"
             width={200}
             height={200}

@@ -7,7 +7,7 @@ export const FourLittleDiamondsDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Four Little Diamonds&quot;</h2>
           <Image
-            src="/assets/paintings/four_little_diamonds_500x500.png"
+            src="/assets/paintings/--500x500/four_little_diamonds_500x500.png"
             alt="An image of a painting entitled Four Little Diamonds"
             width={200}
             height={200}

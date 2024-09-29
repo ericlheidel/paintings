@@ -7,8 +7,8 @@ export const CitiesAndGreasedLightningDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Cities&quot;</h2>
           <Image
-            src="/assets/paintings/cities_500x500.png"
-            alt="An image of a painting entitled CitiesAndGreasedLightningDesktop"
+            src="/assets/paintings/--500x500/cities_500x500.png"
+            alt="An image of a painting entitled Cities"
             width={200}
             height={200}
             priority
@@ -19,7 +19,7 @@ export const CitiesAndGreasedLightningDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Greased Lightning&quot;</h2>
           <Image
-            src="/assets/paintings/greased_lightning_500x500.png"
+            src="/assets/paintings/--500x500/greased_lightning_500x500.png"
             alt="An image of a painting entitled Greased Lightning"
             width={200}
             height={200}

@@ -7,7 +7,7 @@ export const FunkAndDiscoDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Funk {`&`} Disco&quot;</h2>
           <Image
-            src="/assets/paintings/funk_&_disco_500x500.png"
+            src="/assets/paintings/--500x500/funk_&_disco_1000x500.png"
             alt="An image of a painting entitled Funk and a painting entitled Disco"
             width={380}
             height={380}
