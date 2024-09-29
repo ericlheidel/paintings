@@ -5,7 +5,7 @@ export const FiverDesktop = () => {
     <div>
       <div className="flex flex-row flex-wrap w-fit rounded-xl border-2 border-[#1BFFFF] ">
         <div>
-          <h2 className="my-2 text-xl font-semibold text-center">
+          <h2 className="my-2 text-lg font-semibold text-center">
             &quot;Crumble&quot;
           </h2>
           <Image
@@ -19,7 +19,7 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-xl font-semibold text-center">
+          <h2 className="my-2 text-lg font-semibold text-center">
             &quot;Spaghetti & Meatballs&quot;
           </h2>
           <Image
@@ -33,7 +33,7 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-xl font-semibold text-center">
+          <h2 className="my-2 text-lg font-semibold text-center">
             &quot;The Great Divide&quot;
           </h2>
           <Image
@@ -47,7 +47,7 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-xl font-semibold text-center">
+          <h2 className="my-2 text-lg font-semibold text-center">
             &quot;Brainstorm&quot;
           </h2>
           <Image
@@ -61,7 +61,7 @@ export const FiverDesktop = () => {
           />
         </div>
         <div>
-          <h2 className="my-2 text-xl font-semibold text-center">
+          <h2 className="my-2 text-lg font-semibold text-center">
             &quot;Geminiman&quot;
           </h2>
           <Image
