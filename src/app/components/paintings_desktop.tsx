@@ -13,6 +13,9 @@ import { LightingStudioDesktop } from "./1s/lighting_studio"
 import { ArizonaDesktop } from "./1s/arizona"
 import { ColorOfTheYearOneAndTwoDesktop } from "./2s/color_of_the_year_1_and_2"
 import { BeeStingDesktop } from "./1s/bee_sting"
+import { FuturamaDesktop } from "./1s/futurama"
+import { FourLittleDiamondsDesktop } from "./1s/four_little_diamonds"
+import { CitiesAndGreasedLightningDesktop } from "./2s/cities_and_greased_lightning"
 
 export const PaintingsDesktop = () => {
   return (
@@ -37,6 +40,9 @@ export const PaintingsDesktop = () => {
         <ArizonaDesktop />
         <ColorOfTheYearOneAndTwoDesktop />
         <BeeStingDesktop />
+        <FuturamaDesktop />
+        <FourLittleDiamondsDesktop />
+        <CitiesAndGreasedLightningDesktop />
       </div>
     </div>
   )
