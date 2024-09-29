@@ -1,5 +1,3 @@
-# **Currently Being Worked On
-
 My old paintings. Location: https://paintings.eheidel.com
 
 ##### paintings.eheidel.com is deployed on a virtual machine.
