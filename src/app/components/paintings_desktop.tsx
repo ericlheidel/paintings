@@ -20,6 +20,8 @@ import { FiftySevenChevyAndAutumnDesktop } from "./2s/57_chevy_and_autumn"
 import { FunkAndDiscoDesktop } from "./2in1s/funk_disco"
 import { AlternatingCurrentAndDirectCurrentDesktop } from "./2in1s/ac_dc"
 import { ADayAtTheRacesAndANightAtTheOperaDesktop } from "./2in1s/races_opera"
+import { PrimaryDesktop } from "./1s/primary"
+import { StripesIDesktop } from "./1s/stripes_I"
 
 export const PaintingsDesktop = () => {
   return (
@@ -47,10 +49,12 @@ export const PaintingsDesktop = () => {
         <FuturamaDesktop />
         <FourLittleDiamondsDesktop />
         <CitiesAndGreasedLightningDesktop />
+        <PrimaryDesktop />
         <FiftySevenChevyAndAutumnDesktop />
         <FunkAndDiscoDesktop />
         <AlternatingCurrentAndDirectCurrentDesktop />
         <ADayAtTheRacesAndANightAtTheOperaDesktop />
+        <StripesIDesktop />
       </div>
     </div>
   )
