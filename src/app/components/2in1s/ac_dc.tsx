@@ -9,7 +9,7 @@ export const AlternatingCurrentAndDirectCurrentDesktop = () => {
             &quot;Alternating Current {`&`} Direct Current&quot;
           </h2>
           <Image
-            src="/assets/paintings/alternating_current_&_direct_current.png"
+            src="/assets/paintings/alternating_current_&_direct_current_500x500.png"
             alt="An image of a painting entitled Alternating Current and a painting entitled Direct Current"
             width={380}
             height={380}

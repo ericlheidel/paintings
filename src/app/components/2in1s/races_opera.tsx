@@ -9,7 +9,7 @@ export const ADayAtTheRacesAndANightAtTheOperaDesktop = () => {
             &quot;A Day at the Races {`&`} A Night at the Opera&quot;
           </h2>
           <Image
-            src="/assets/paintings/a_day_at_the_races_&_a_night_at_the_opera.png"
+            src="/assets/paintings/a_day_at_the_races_&_a_night_at_the_opera_500x500.png"
             alt="An image of a painting entitled A Day at the Races and a painting entitled A Night at the Opera"
             width={380}
             height={380}

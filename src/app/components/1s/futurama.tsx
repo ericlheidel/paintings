@@ -7,7 +7,7 @@ export const FuturamaDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Futurama&quot;</h2>
           <Image
-            src="/assets/paintings/futurama.png"
+            src="/assets/paintings/futurama_500x500.png"
             alt="An image of a painting entitled Futurama"
             width={200}
             height={200}

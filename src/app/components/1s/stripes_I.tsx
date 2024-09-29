@@ -7,7 +7,7 @@ export const StripesIDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Stripes I&quot;</h2>
           <Image
-            src="/assets/paintings/stripes_I.png"
+            src="/assets/paintings/stripes_I_500x500.png"
             alt="An image of a painting entitled Stripes I"
             width={210}
             height={210}
