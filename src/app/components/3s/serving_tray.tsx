@@ -7,7 +7,7 @@ export const ServingTrayDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Serving Tray #1&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/serving_tray_1_500x500.png"
+            src="/assets/paintings/500x500/serving_tray_1_500x500.png"
             alt="An image of a painted serving tray"
             width={230}
             height={230}
@@ -19,7 +19,7 @@ export const ServingTrayDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Serving Tray #2&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/serving_tray_2_500x500.png"
+            src="/assets/paintings/500x500/serving_tray_2_500x500.png"
             alt="An image of a painted serving tray"
             width={230}
             height={230}
@@ -31,7 +31,7 @@ export const ServingTrayDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Serving Tray #3&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/serving_tray_3_500x500.png"
+            src="/assets/paintings/500x500/serving_tray_3_500x500.png"
             alt="An image of a painted serving tray"
             width={230}
             height={230}

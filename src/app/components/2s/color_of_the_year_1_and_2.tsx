@@ -7,7 +7,7 @@ export const ColorOfTheYearOneAndTwoDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Color of the Year 1&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/color_of_the_year_1_500x500.png"
+            src="/assets/paintings/500x500/color_of_the_year_1_500x500.png"
             alt="An image of a painting entitled Color of the Year 1"
             width={230}
             height={230}
@@ -19,7 +19,7 @@ export const ColorOfTheYearOneAndTwoDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Color of the Year 2&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/color_of_the_year_2_500x500.png"
+            src="/assets/paintings/500x500/color_of_the_year_2_500x500.png"
             alt="An image of a painting entitled Color of the Year 2"
             width={230}
             height={230}

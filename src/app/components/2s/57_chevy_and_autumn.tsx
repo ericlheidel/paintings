@@ -7,7 +7,7 @@ export const FiftySevenChevyAndAutumnDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;57 Chevy&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/57_chevy_500x500.png"
+            src="/assets/paintings/500x500/57_chevy_500x500.png"
             alt="An image of a painting entitled 57 Chevy"
             width={200}
             height={200}
@@ -19,7 +19,7 @@ export const FiftySevenChevyAndAutumnDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Autumn&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/autumn_500x500.png"
+            src="/assets/paintings/500x500/autumn_500x500.png"
             alt="An image of a painting entitled Autumn"
             width={200}
             height={200}

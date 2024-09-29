@@ -7,7 +7,7 @@ export const ChicagoDesktop = () => {
         <div>
           <h2 className="my-2 text-center">&quot;Chicago&quot;</h2>
           <Image
-            src="/assets/paintings/--500x500/chicago_1000x500.png"
+            src="/assets/paintings/500x500/chicago_1000x500.png"
             alt="An image of a painting entitled Chicago"
             width={430}
             height={430}
