@@ -27,8 +27,10 @@ export const PaintingsDesktop = () => {
   return (
     <div className="md:block hidden">
       <div className="text-3xl font-semibold text-[#1BFFFF] mb-4 flex flex-row justify-center">
-        <FaHome size={30} color="aqua" className="mt-[2px]" />
-        <div className="ml-4">
+        <Link href="https://www.eheidel.com">
+          <FaHome size={30} color="aqua" className="mt-[2px]" />
+        </Link>
+        <div className="ml-2">
           <Link href="https://www.eheidel.com">Home</Link>
         </div>
       </div>
