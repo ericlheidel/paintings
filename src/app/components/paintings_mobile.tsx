@@ -27,7 +27,9 @@ export const PaintingsMobile = () => {
   return (
     <div className="md:hidden flex flex-col gap-8 items-center">
       <div className="text-2xl font-semibold text-[#1BFFFF] flex flex-row justify-center">
-        <FaHome size={30} color="aqua" />
+        <Link href="https://www.eheidel.com">
+          <FaHome size={30} color="aqua" />
+        </Link>
         <div className="ml-2">
           <Link href="https://www.eheidel.com">Home</Link>
         </div>
